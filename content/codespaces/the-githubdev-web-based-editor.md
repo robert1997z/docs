@@ -72,7 +72,7 @@ Because the web-based editor uses the GitHub Repositories extension to power its
 
 ### Commit your changes
 
-{% data reusables.codespaces.source-control-commit-changes %} 
+{% data reusables.codespaces.source-control-commit-changes %}
 5. Once you have committed your changes, they will automatically be pushed to your branch on {% data variables.product.prodname_dotcom %}.
 ### Create a pull request
 
